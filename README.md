@@ -2,7 +2,7 @@
 **Clarify crowded biological pathway figures without losing or changing the science.**
 
 ## Quick Setup
-1. Open the live GitHub Pages link (or open `index.html` locally in any modern browser—no build step required).
+1. Open the live GitHub Pages link https://jarbaas.github.io/biopath-studio/ (or open `index.html` locally in any modern browser—no build step required).
 2. Paste a **Google Gemini API Key** (`AIza...`) into the top-right input box.
 3. Click **Upload Figure**, select a pathway image (`example1.jpg` or `example2.jpg`), and click **Improve Figure**.
 
